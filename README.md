@@ -45,7 +45,7 @@
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="拾梦 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="拾梦 首页" width="100%" />
   <br/>
   <sub><b>AI 同人图生成 · 让每个人成为古风世界的主角</b></sub>
 </div>
